@@ -1,0 +1,1 @@
+This Project is the Flatiron Schools Sample Scrapper that picks out the instructors names from the flatiron schools instructor pages and return the names of the instructors to the user. This Scrapper utilizes the Nokogiri gem and the Open-Uri module from Ruby.
